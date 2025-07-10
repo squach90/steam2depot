@@ -18,7 +18,15 @@ A small Bash script to quickly extract a game's Steam AppID and generate a `down
 
 - Bash
 - `curl`
+- `git`
 - `pbcopy` (macOS only, for clipboard copy)
+
+---
+
+## 🔧 Install
+
+Copy and paste this command : `curl -fsSL https://raw.githubusercontent.com/squach90/steam2depot/main/install.sh | bash
+`
 
 ---
 
