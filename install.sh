@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-REPO_URL="https://github.com/tonpseudo/steam2depot.git"
+REPO_URL="https://github.com/squach90/steam2depot.git"
 CLONE_DIR="$HOME/.steam2depot"
 
 echo "📥 Cloning or updating repo..."
