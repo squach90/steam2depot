@@ -12,7 +12,7 @@ INSTALL_PATH="/usr/local/bin/steam2depot"
 
 echo "📥 Installing steam2depot..."
 
-# Créer le dossier local si nécessaire
+#  Créer le dossier local si nécessaire
 mkdir -p "$CLONE_DIR"
 
 # Télécharger le script steam2depot.sh depuis GitHub
