@@ -25,14 +25,11 @@ A small Bash script to quickly extract a game's Steam AppID and generate a `down
 
 ## 🔧 Install
 
-Copy and paste this command : 
+Copy and paste this command :
 ```bash
 curl -fsSL https://raw.githubusercontent.com/squach90/steam2depot/main/install.sh | bash
-``` 
-
-
 ```
-```
+
 ---
 
 ## 🚀 Usage
